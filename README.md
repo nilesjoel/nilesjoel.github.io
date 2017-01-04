@@ -1,6 +1,6 @@
-####For _**@nilesjoel**_ GitHub projects.
+#For _**@nilesjoel**_ GitHub projects.
 
 
-######Art Web Application
+####Art Web Application
 
 https://nilesjoel.github.io/PismoArtwork/
