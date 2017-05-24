@@ -3,4 +3,4 @@
 
 ####Art Web Application
 
-https://nilesjoel.github.io/PismoArtwork/
+ http://nilesjoel.com/pismo-artwork/
